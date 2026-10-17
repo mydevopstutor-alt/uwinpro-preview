@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+<rect width="760" height="220" rx="24" fill="#0b2a3b"/>
+<rect x="40" y="45" width="130" height="130" rx="30" fill="#3ddc5f"/>
+<text x="105" y="133" font-size="64" font-weight="900" text-anchor="middle" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif">UP</text>
+<text x="200" y="112" font-size="80" font-weight="900" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif">uwin<tspan fill="#94d2bd">pro</tspan></text>
+<text x="203" y="148" font-size="19" letter-spacing="1.5" fill="#cceeee" font-family="Inter,Helvetica,Arial,sans-serif">TRAINING AND CONSULTING FOR</text>
+<text x="203" y="175" font-size="19" letter-spacing="1.5" fill="#cceeee" font-family="Inter,Helvetica,Arial,sans-serif">THE NEXT CORPORATE GENERATION</text>
+</svg>
